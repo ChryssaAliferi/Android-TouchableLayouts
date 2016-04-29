@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android TouchableLayouts Example</string>
+    <string name="noActionKey">Touch me!</string>
+    <string name="onTouchKey">On Touch</string>
+    <string name="onMoveKey">On Move</string>
+    <string name="onReleaseKey">On Release</string>
+    <string name="onPinchInKey">On Pinch In</string>
+    <string name="onPinchOutKey">On Pinch Out</string>
+    <string name="onSecondFingerOnLayout">On Second Finger Touch</string>
+    <string name="onTwoFingersDragKey">On Two Fingers Drag</string>
+</resources>
